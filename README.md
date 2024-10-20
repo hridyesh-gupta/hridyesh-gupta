@@ -10,7 +10,7 @@
   <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" alt="IO Connect Badge" width="300" height="300">
 </a>
 <a href="https://g.dev/hridyesh">
-  <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" alt="IO Connect Badge" width="300" height="300">
+  <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" alt="IO Connect Badge" width="250" height="250">
 </a>
 
 
