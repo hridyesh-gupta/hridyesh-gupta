@@ -37,7 +37,7 @@
 
 
 
-## Hacktoberfest Badges
+### Hacktoberfest Badges
 
 [![An image of @hridyeshgupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hridyeshgupta)](https://holopin.io/@hridyeshgupta)
 <!--
