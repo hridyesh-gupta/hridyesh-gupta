@@ -9,6 +9,7 @@
 <a href="https://g.dev/hridyesh">
   <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" alt="IO Connect Badge" width="300" height="300">
 </a>
+![image](https://github.com/user-attachments/assets/7c9fd472-f8d6-4ed8-a3c5-704f2860e68e)
 
 ## Hacktoberfest Badges
 
