@@ -3,6 +3,13 @@
 
 [![Google IO Connect Attendee](https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg)](https://developers.google.com/profile/badges/events/io/2024/connect/bengaluru)
 
+## My Badges
+
+<!-- Badge for g.dev profile -->
+<a href="https://g.dev/hridyesh">
+  <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" alt="IO Connect Badge" width="150" height="40">
+</a>
+
 
 <!--
 **hridyesh-gupta/hridyesh-gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
