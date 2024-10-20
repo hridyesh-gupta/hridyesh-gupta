@@ -7,7 +7,7 @@
 
 <!-- Badge for g.dev profile -->
 <a href="https://g.dev/hridyesh">
-  <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" alt="IO Connect Badge" width="150" height="40">
+  <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" alt="IO Connect Badge" width="500" height="500">
 </a>
 
 
