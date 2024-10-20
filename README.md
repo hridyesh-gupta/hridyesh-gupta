@@ -10,8 +10,15 @@
   <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" alt="IO Connect Badge" width="300" height="300">
 </a>
 <a href="https://g.dev/hridyesh">
-  <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" alt="IO Connect Badge" width="250" height="250">
+  <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" alt="IO Connect Badge" width="200" height="200">
 </a>
+<div align="center">
+  <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" alt="Devfest'23 Badge" style="width: 250px; height: 250px; border-radius: 50%; vertical-align: middle; margin-right: 20px;">
+  <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" alt="IO Connect'24 Badge" style="width: 200px; height: 200px; border-radius: 50%; vertical-align: middle;">
+</div>
+
+
+
 
 
 ## Hacktoberfest Badges
