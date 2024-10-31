@@ -60,10 +60,6 @@
   </a>
 </div>
 
-      <td>
-        <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="IO Connect'24 Badge" style="width: 200px; height: 200px; border-radius: 50%;">
-      </td> 
-
 ### Hacktoberfest
 
 [![An image of @hridyeshgupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hridyeshgupta)](https://holopin.io/@hridyeshgupta)
