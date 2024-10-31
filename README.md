@@ -26,6 +26,9 @@
       <td>
         <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" alt="IO Connect'24 Badge" style="width: 200px; height: 200px; border-radius: 50%;">
       </td>
+      <td>
+        <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="IO Connect'24 Badge" style="width: 200px; height: 200px; border-radius: 50%;">
+      </td>      
     </tr>
     <tr>
       <td align="center">Devfest'23 Badge</td>
