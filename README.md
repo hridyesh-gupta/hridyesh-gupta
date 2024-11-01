@@ -2,6 +2,10 @@
 
 ## My Badges
 
+### Hacktoberfest
+
+[![An image of @hridyeshgupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hridyeshgupta)](https://holopin.io/@hridyeshgupta)
+
 ### Google Profile
 <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
   <a href="https://g.dev/hridyesh" style="text-decoration: none; color: inherit;">
@@ -59,10 +63,6 @@
     </table>
   </a>
 </div>
-
-### Hacktoberfest
-
-[![An image of @hridyeshgupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hridyeshgupta)](https://holopin.io/@hridyeshgupta)
 
 ### LeetCode
 
