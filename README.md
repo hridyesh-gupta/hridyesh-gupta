@@ -71,6 +71,12 @@
     <table style="border-collapse: separate; border-spacing: 15px 10px;">
       <tr>
         <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" 
+               alt="LeetCode 200" 
+               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">LeetCode 200</div>
+        </td>
+        <td align="center">
           <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" 
                alt="LeetCode 100" 
                style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
