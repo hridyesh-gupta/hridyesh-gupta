@@ -92,43 +92,43 @@
         <td align="center">
           <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" 
                alt="LeetCode 200" 
-               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">LeetCode 200</div>
         </td>
         <td align="center">
           <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" 
                alt="LeetCode 100" 
-               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">LeetCode 100</div>
         </td>
         <td align="center">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" 
                alt="LeetCode October 2024" 
-               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">October 2024</div>
         </td>
         <td align="center">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" 
                alt="LeetCode September 2024" 
-               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">September 2024</div>
         </td>
         <td align="center">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" 
                alt="LeetCode August 2024" 
-               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">August 2024</div>
         </td>
         <td align="center">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" 
                alt="LeetCode July 2024" 
-               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">July 2024</div>
         </td>
         <td align="center">
           <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" 
                alt="LeetCode 50" 
-               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+               style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">LeetCode 50</div>
         </td>
       </tr>
