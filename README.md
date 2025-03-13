@@ -30,7 +30,19 @@
   <a href="https://g.dev/hridyesh" style="text-decoration: none; color: inherit;">
     <table style="border-collapse: separate; border-spacing: 15px 10px;">
       <tr>
+          <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/io/2025/registered/badge.svg" 
+               alt="Google I/O Connect'25" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'25</div>
+        </td>
         <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2024/speaker/badge.svg" 
+               alt="DevFest'24 Speaker" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'24 Speaker</div>
+        </td>
+          <td align="center">
           <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2024/organizer/badge.svg" 
                alt="DevFest'24 Organizer" 
                style="width: 120px; height: 120px; border-radius: 50%;">
