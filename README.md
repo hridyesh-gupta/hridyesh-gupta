@@ -33,7 +33,7 @@
           <td align="center">
           <img src="https://s3.tebi.io/imgbucket/IO%202025.png" 
                alt="Google I/O Connect'25" 
-                style="width: 120px; height: 70px; object-fit: contain; min-width: 120px; min-height: 70px;">
+                style="width: 120px; height: 110px; object-fit: contain; min-width: 120px; min-height: 110px;">
               <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'25</div>
         </td>
         <td align="center">
@@ -57,9 +57,11 @@
         <td align="center">
           <img src="https://developers.google.com/static/profile/badges/events/io/2024/connect/bengaluru/badge.svg" 
                alt="Google I/O Connect'24" 
-               style="width: 120px; height: 120px; border-radius: 50%;">
+               style="width: 100px; height: 100px; border-radius: 50%;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'24</div>
         </td>
+      </tr>
+        <tr>
         <td align="center">
           <img src="https://developers.google.com/static/profile/badges/events/community/iwd/2024/badge.svg" 
                alt="WTM Event Organizer" 
@@ -81,7 +83,7 @@
         <td align="center">
           <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" 
                alt="Google Cloud Innovator" 
-               style="width: 120px; height: 120px; border-radius: 50%;">
+               style="width: 100px; height: 100px; border-radius: 50%;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Cloud Innovator</div>
         </td>
         <td align="center">
