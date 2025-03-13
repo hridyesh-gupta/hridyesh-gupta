@@ -33,7 +33,7 @@
           <td align="center">
           <img src="https://s3.tebi.io/imgbucket/IO%202025.png" 
                alt="Google I/O Connect'25" 
-               style="width: 100px; height: 80px; border-radius: 50%;">
+               style="width: 100px; height: 75px; border-radius: 50%;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google I/O Connect'25</div>
         </td>
         <td align="center">
