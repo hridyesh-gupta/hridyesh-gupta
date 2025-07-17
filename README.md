@@ -3,7 +3,7 @@
 </h1>
 
 
-- 🌐 I'm a full stack web developer from India.
+- 🌐 I'm an open source mentor/contributor and full stack web developer from India.
   
 - 🔭 I’m currently working at CERN in Geneva, Switzerland.
 
