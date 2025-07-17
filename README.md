@@ -5,7 +5,7 @@
 
 - 🌐 I'm a full stack web developer from India.
   
-- 🔭 I’m currently working on [UIT-MAP](uitmap.com)
+- 🔭 I’m currently working at CERN in Geneva, Switzerland.
 
 - 🌱 I’m currently learning **NextJS and AngularJS**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://resume.hridyesh.com/](https://resume.hridyesh.com/)
 
-- 📝 I regularly write articles on [https://medium.com/@hridyesh-gupta](https://medium.com/@hridyesh-gupta)
+- 📝 I often write articles on [https://medium.com/@hridyesh-gupta](https://medium.com/@hridyesh-gupta)
 
 ## Badges
 
