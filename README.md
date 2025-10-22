@@ -5,7 +5,7 @@
 
 - 🌐 I'm an open source mentor/contributor and full stack web developer from India.
   
-- 🔭 I’m currently working at CERN in Geneva, Switzerland.
+- 🔭 I worked as an intern at CERN in Geneva, Switzerland.
 
 - 🌱 I’m currently learning **Agentic AI and automations**
 
