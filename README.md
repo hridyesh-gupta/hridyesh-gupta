@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working at CERN in Geneva, Switzerland.
 
-- 🌱 I’m currently learning **NextJS and AngularJS**
+- 🌱 I’m currently learning **Agentic AI and automations**
 
 - 👨‍💻 All of my projects are available at [https://hridyesh.com/projects](https://hridyesh.com/projects)
 
