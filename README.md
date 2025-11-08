@@ -22,8 +22,7 @@
 ## Badges
 
 ### Hacktoberfest
-
-[![An image of @hridyeshgupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hridyeshgupta)](https://holopin.io/@hridyeshgupta)
+[![An image of @hridyeshgupta's Holopin Badges](https://github.com/user-attachments/assets/05c0b34f-b197-41a6-b58b-8365018e4cef)](https://holopin.io/@hridyeshgupta)
 
 ### Google Profile
 <div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
@@ -119,25 +118,25 @@
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" 
                alt="LeetCode October 2024" 
                style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">October 2024</div>
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">October</div>
         </td>
         <td align="center">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" 
                alt="LeetCode September 2024" 
                style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">September 2024</div>
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">September</div>
         </td>
         <td align="center">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" 
                alt="LeetCode August 2024" 
                style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">August 2024</div>
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">August</div>
         </td>
         <td align="center">
           <img src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" 
                alt="LeetCode July 2024" 
                style="width: 100px; height: 100px; border-radius: 50%; cursor: pointer;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">July 2024</div>
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">July</div>
         </td>
         <td align="center">
           <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" 
